@@ -1,1 +1,2 @@
-import * from './callApi';
+export * from './callApi';
+export * from './getEndpoint';
